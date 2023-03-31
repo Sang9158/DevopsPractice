@@ -1,2 +1,3 @@
 Hello this is homepage for github project 
 new features added
+bug fix by me on homepage branch
